@@ -29,3 +29,4 @@
   - [Analyzing and Interpreting Data on Lifelong Learning](chapter-7-2.md)
   - [Continuously Improving Learning Approaches and Mindsets](chapter-7-3.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
