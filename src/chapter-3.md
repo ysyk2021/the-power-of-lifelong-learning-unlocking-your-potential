@@ -1,5 +1,3 @@
-Chapter 3: Strategies for Building a Lifelong Learning Mindset
-==============================================================
 
 In this chapter, we will explore strategies for building a lifelong learning mindset.
 

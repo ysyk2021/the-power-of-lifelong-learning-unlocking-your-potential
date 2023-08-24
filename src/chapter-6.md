@@ -1,5 +1,3 @@
-Chapter 6: Applying Lifelong Learning Across Different Areas of Life
-====================================================================
 
 Lifelong learning can be applied across different areas of life, including career advancement, entrepreneurship, personal growth and fulfillment, community involvement, and social justice. In this chapter, we will explore how to apply lifelong learning in each of these areas.
 

@@ -1,5 +1,3 @@
-Chapter 2: Defining Lifelong Learning
-=====================================
 
 In this chapter, we will define lifelong learning and explore its components and benefits.
 

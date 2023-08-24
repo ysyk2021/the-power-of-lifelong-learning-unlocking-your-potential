@@ -1,5 +1,3 @@
-Chapter 7: Measuring Success in Lifelong Learning
-=================================================
 
 Measuring success in lifelong learning is important to ensure that individuals are making progress towards their goals. In this chapter, we will explore metrics and key performance indicators (KPIs) for lifelong learning, as well as strategies for analyzing and interpreting data and continuously improving learning approaches and mindsets.
 
